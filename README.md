@@ -10,6 +10,6 @@
   
 ## 📊 GitHub Wrapped
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KnotzerIO&show_icons=true&theme=transparent&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnotzerIO&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=KnotzerIO&show_icons=true&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KnotzerIO&langs_count=8&layout=compact&hide_border=true&theme=transparent" />
 </div>
